@@ -18,7 +18,7 @@ Methodology
 6.	Hyperparameter Tuning: Optimizing model parameters to enhance predictive accuracy. Techniques like Grid Search or Random Search can be employed to fine-tune the model.
 7.	Interpretability: If applicable, interpreting the model's predictions to understand which features are driving the loan approval decisions. This aids in providing transparent explanations to stakeholders.
 Results
-The final model achieves an accuracy of [X%] on the validation set, demonstrating its effectiveness in predicting loan approval outcomes. Additionally, the model's precision and recall scores indicate its ability to balance false positives and false negatives.
+The final model achieves an accuracy of 82% on the validation set by Naive Bayes, demonstrating its effectiveness in predicting loan approval outcomes. Additionally, the model's precision and recall scores indicate its ability to balance false positives and false negatives.
 Conclusion
 The Loan Approval Prediction project highlights the power of machine learning in making data-driven decisions within the financial domain. By accurately predicting loan approval outcomes, this project provides valuable insights to lending institutions, streamlining their processes and minimizing potential risks.
 Future Enhancements
